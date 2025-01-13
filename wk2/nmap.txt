@@ -1,0 +1,43 @@
+1. nmap 159.203.56.126
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-13 21:00 UTC
+Nmap scan report for comp3134-Winter2025 (159.203.56.126)
+Host is up (0.0000070s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+2. nmap -p 22 159.203.56.126
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-13 21:02 UTC
+Nmap scan report for comp3134-Winter2025 (159.203.56.126)
+Host is up (0.000069s latency).
+
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+3. nmap -p 22-80 159.203.56.126
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-13 21:04 UTC
+Nmap scan report for comp3134-Winter2025 (159.203.56.126)
+Host is up (0.0000060s latency).
+Not shown: 56 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+4. nmap -F 159.203.56.126
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-13 21:05 UTC
+Nmap scan report for comp3134-Winter2025 (159.203.56.126)
+Host is up (0.0000070s latency).
+Not shown: 97 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.08 seconds

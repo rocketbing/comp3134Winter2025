@@ -1,0 +1,20 @@
+--- IP Info for google.com ---
+IP Address: 142.250.190.46
+Geolocation: Mountain View, California, United States
+
+--- IP Info for apple.com ---
+IP Address: 17.253.144.10
+Geolocation: Cupertino, California, United States
+
+--- IP Info for microsoft.com ---
+IP Address: 40.113.200.201
+Geolocation: Redmond, Washington, United States
+
+--- IP Info for amazon.com ---
+IP Address: 205.251.242.103
+Geolocation: Seattle, Washington, United States
+
+--- IP Info for twitter.com ---
+IP Address: 104.244.42.129
+Geolocation: San Francisco, California, United States
+

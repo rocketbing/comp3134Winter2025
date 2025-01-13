@@ -1,0 +1,133 @@
+Domain 1:
+Domain:
+example.com
+Registrar:
+RESERVED-Internet Assigned Numbers Authority
+Registered On:
+1995-08-14
+Expires On:
+2025-08-13
+Updated On:
+2024-08-14
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Name Servers:
+a.iana-servers.net
+b.iana-servers.net
+
+Domain 2:
+Domain:
+example.org
+Registrar:
+ICANN
+Registered On:
+1995-08-31
+Expires On:
+2025-08-30
+Updated On:
+2024-10-14
+Status:
+serverDeleteProhibited
+serverRenewProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+a.iana-servers.net
+b.iana-servers.net
+
+Domain 3:
+Domain:
+example.net
+Registrar:
+RESERVED-Internet Assigned Numbers Authority
+Registered On:
+1995-08-31
+Expires On:
+2025-08-30
+Updated On:
+2024-08-31
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Name Servers:
+a.iana-servers.net
+b.iana-servers.net
+
+
+Domain 4:
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: EXAMPLE.EDU
+
+Registrant:
+	ICANN
+	12025 Waterfront Drive
+	suite 300
+	Los Angeles, CA 90094-2536
+	USA
+
+Administrative Contact:
+	Domain Administrator
+	ICANN
+	12025 Waterfront Drive
+	Suite 300
+	Los Angeles, CA 90094-2536
+	USA
+	+1.4242171313
+	email@icann.org
+
+Technical Contact:
+	Domain Administrator
+	ICANN
+	12025 Waterfront Drive
+	Suite 300
+	Los Angeles, CA 90094-2536
+	USA
+	+1.4242171313
+	email@icann.org
+
+Name Servers:
+	A.IANA-SERVERS.NET
+	B.IANA-SERVERS.NET
+
+Domain record activated:    16-May-2000
+Domain record last updated: 11-Jul-2024
+Domain expires:             31-Jul-2025
+
+Domain 5:
+Domain:
+example.co
+Registrar:
+.COInternet Restricted and Reserved names
+Registered On:
+2010-04-23
+Expires On:
+2025-04-22
+Updated On:
+2024-06-07
+Status:
+serverTransferProhibited
+inactive
