@@ -1,0 +1,25 @@
+20:05:12.191351 IP lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377 > comp3134-Winter2025.ssh: Flags [.], ack 102913, win 2700, options [nop,nop,TS val 3341933294 ecr 2410388529], length 0
+20:05:12.286898 IP comp3134-Winter2025.ssh > lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377: Flags [P.], seq 102913:103373, ack 72, win 501, options [nop,nop,TS val 2410388633 ecr 3341933294], length 460
+20:05:12.294273 IP lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377 > comp3134-Winter2025.ssh: Flags [.], ack 103373, win 2700, options [nop,nop,TS val 3341933399 ecr 2410388633], length 0
+20:05:12.390905 IP comp3134-Winter2025.ssh > lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377: Flags [P.], seq 103373:103833, ack 72, win 501, options [nop,nop,TS val 2410388737 ecr 3341933399], length 460
+20:05:12.397637 IP lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377 > comp3134-Winter2025.ssh: Flags [.], ack 103833, win 2700, options [nop,nop,TS val 3341933502 ecr 2410388737], length 0
+20:05:12.494822 IP comp3134-Winter2025.ssh > lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377: Flags [P.], seq 103833:104293, ack 72, win 501, options [nop,nop,TS val 2410388841 ecr 3341933502], length 460
+20:05:12.502771 IP lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377 > comp3134-Winter2025.ssh: Flags [.], ack 104293, win 2700, options [nop,nop,TS val 3341933606 ecr 2410388841], length 0
+20:05:12.598784 IP comp3134-Winter2025.ssh > lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377: Flags [P.], seq 104293:104753, ack 72, win 501, options [nop,nop,TS val 2410388945 ecr 3341933606], length 460
+20:05:12.604364 IP lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377 > comp3134-Winter2025.ssh: Flags [.], ack 104753, win 2700, options [nop,nop,TS val 3341933708 ecr 2410388945], length 0
+20:05:12.702869 IP comp3134-Winter2025.ssh > lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377: Flags [P.], seq 104753:105213, ack 72, win 501, options [nop,nop,TS val 2410389049 ecr 3341933708], length 460
+20:05:12.708167 IP lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377 > comp3134-Winter2025.ssh: Flags [.], ack 105213, win 2700, options [nop,nop,TS val 3341933812 ecr 2410389049], length 0
+20:05:12.806834 IP comp3134-Winter2025.ssh > lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377: Flags [P.], seq 105213:105673, ack 72, win 501, options [nop,nop,TS val 2410389153 ecr 3341933812], length 460
+20:05:12.811525 IP lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377 > comp3134-Winter2025.ssh: Flags [.], ack 105673, win 2700, options [nop,nop,TS val 3341933916 ecr 2410389153], length 0
+20:05:12.910853 IP comp3134-Winter2025.ssh > lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377: Flags [P.], seq 105673:106133, ack 72, win 501, options [nop,nop,TS val 2410389257 ecr 3341933916], length 460
+20:05:12.916244 IP lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377 > comp3134-Winter2025.ssh: Flags [.], ack 106133, win 2700, options [nop,nop,TS val 3341934021 ecr 2410389257], length 0
+20:05:13.014894 IP comp3134-Winter2025.ssh > lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377: Flags [P.], seq 106133:106593, ack 72, win 501, options [nop,nop,TS val 2410389361 ecr 3341934021], length 460
+20:05:13.021563 IP lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377 > comp3134-Winter2025.ssh: Flags [.], ack 106593, win 2700, options [nop,nop,TS val 3341934125 ecr 2410389361], length 0
+20:05:13.118898 IP comp3134-Winter2025.ssh > lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377: Flags [P.], seq 106593:107053, ack 72, win 501, options [nop,nop,TS val 2410389465 ecr 3341934125], length 460
+20:05:13.124309 IP lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377 > comp3134-Winter2025.ssh: Flags [.], ack 107053, win 2700, options [nop,nop,TS val 3341934229 ecr 2410389465], length 0
+20:05:13.222884 IP comp3134-Winter2025.ssh > lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377: Flags [P.], seq 107053:107513, ack 72, win 501, options [nop,nop,TS val 2410389569 ecr 3341934229], length 460
+20:05:13.228444 IP lnsm4-toronto63-142-127-239-84.internet.virginmobile.ca.58377 > comp3134-Winter2025.ssh: Flags [.], ack 107513, win 2700, options [nop,nop,TS val 3341934333 ecr 2410389569], length 0
+^C
+444 packets captured
+448 packets received by filter
+0 packets dropped by kernel
