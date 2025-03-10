@@ -1,0 +1,3 @@
+Key Differences:
+strip_tags(): Removes HTML tags entirely. While this is useful for removing harmful tags like <script>, it does not escape characters like <, >, and &. Therefore, it could still allow harmful content to be rendered.
+htmlspecialchars(): Escapes special HTML characters, making the content safe to display without allowing it to be interpreted as HTML or JavaScript. It is the better choice for outputting user-generated content in a web page.

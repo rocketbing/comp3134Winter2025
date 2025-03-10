@@ -1,0 +1,5 @@
+Description of Mitigation:
+
+Issue 1: The user could potentially navigate to files or directories outside the allowed path. To mitigate this, we use basename() to sanitize the input and restrict it to a valid folder.
+Issue 2: Users could enter directories that don’t exist, leading to errors. To mitigate this, we use file_exists() to check the existence of the path.
+Bonus Issue: The user might try to access a file using . (dot) in the query string, so we check for this and block any query string containing a dot to ensure only directories are accessed.

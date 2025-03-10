@@ -1,0 +1,5 @@
+What I see on the brower:
+This would likely be an empty list or an error message saying "no such directory".
+
+What sensitive information is shown: 
+Depending on how your server is configured, you might see internal errors, paths, or other information indicating that directory traversal is possible.

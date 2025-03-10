@@ -1,0 +1,11 @@
+1)Navigate to the form and type a valid English word:
+I see "User input: hello" message after I enter "hello" in the text field
+
+2)Navigate to the URL and type an invalid English word after the /browse/ section of the URL
+The invalid word should still be displayed, as no validation is performed
+
+3)Navigate to the form and type the following text:
+The browser will interpret this as HTML, and the script may execute, showing an alert with "hello".
+
+4)Navigate to the URL and type the following text:
+The browser might still execute the script, showing an alert

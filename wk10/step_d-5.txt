@@ -1,0 +1,5 @@
+What I see on the brower:
+I see files from higher up in the directory tree
+
+What sensitive information is shown:
+I see system or configuration files that are typically hidden
